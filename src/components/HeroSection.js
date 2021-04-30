@@ -5,14 +5,8 @@ import './HeroSection.css';
 
 function HeroSection() {
   return (
-    <div className='hero-container' style={{
-      backgroundImage: "url('/images/img-camping.jpg')",
-    backgroundPosition: 'center',
-    backgroundSize: 'center/cover',
-    backgroundRepeat: 'no-repeat',
-
-    }}>
-      {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
+    <div className='hero-container' >
+      <video src='videos/video-1.mp4' autoPlay loop muted />
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
@@ -37,3 +31,12 @@ function HeroSection() {
 }
 
 export default HeroSection;
+
+
+// style={{
+//   backgroundImage: "url('/images/img-camping.jpg')",
+// backgroundPosition: 'center',
+// backgroundSize: 'center/cover',
+// backgroundRepeat: 'no-repeat',
+
+// }}
