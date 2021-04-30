@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe9e609fab385f9511e0c8551f9ac785",
+    "revision": "7bb2e176d0393bfe009837b19a3e1641",
     "url": "/koiro/index.html"
   },
   {
-    "revision": "4710dd98b76b3a9485e7",
+    "revision": "1c2bf7a00c9e6e1bcbaf",
     "url": "/koiro/static/css/main.ba4d057c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/koiro/static/js/2.c55b2d35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4710dd98b76b3a9485e7",
-    "url": "/koiro/static/js/main.06408062.chunk.js"
+    "revision": "1c2bf7a00c9e6e1bcbaf",
+    "url": "/koiro/static/js/main.04008fa6.chunk.js"
   },
   {
     "revision": "7d457535de0044db0d60",
