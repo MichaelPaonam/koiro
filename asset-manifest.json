@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/koiro/static/css/main.5f4c7c56.chunk.css",
+    "main.css": "/koiro/static/css/main.ad52dbb6.chunk.css",
     "main.js": "/koiro/static/js/main.9945fa74.chunk.js",
     "main.js.map": "/koiro/static/js/main.9945fa74.chunk.js.map",
     "runtime-main.js": "/koiro/static/js/runtime-main.31b68538.js",
@@ -8,15 +8,15 @@
     "static/js/2.1effd984.chunk.js": "/koiro/static/js/2.1effd984.chunk.js",
     "static/js/2.1effd984.chunk.js.map": "/koiro/static/js/2.1effd984.chunk.js.map",
     "index.html": "/koiro/index.html",
-    "precache-manifest.27966b0cc35795555b688632e31a77fa.js": "/koiro/precache-manifest.27966b0cc35795555b688632e31a77fa.js",
+    "precache-manifest.2ec261cef3cb32a17bcd04b2700c1ede.js": "/koiro/precache-manifest.2ec261cef3cb32a17bcd04b2700c1ede.js",
     "service-worker.js": "/koiro/service-worker.js",
-    "static/css/main.5f4c7c56.chunk.css.map": "/koiro/static/css/main.5f4c7c56.chunk.css.map",
+    "static/css/main.ad52dbb6.chunk.css.map": "/koiro/static/css/main.ad52dbb6.chunk.css.map",
     "static/js/2.1effd984.chunk.js.LICENSE.txt": "/koiro/static/js/2.1effd984.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.31b68538.js",
     "static/js/2.1effd984.chunk.js",
-    "static/css/main.5f4c7c56.chunk.css",
+    "static/css/main.ad52dbb6.chunk.css",
     "static/js/main.9945fa74.chunk.js"
   ]
 }
